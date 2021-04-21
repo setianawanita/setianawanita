@@ -5,19 +5,19 @@
 - ⚡ I like singing,so lets sing with me :")
 # TUGAS PRAKTIKUM 05 : Phyton Introduction
 ## SCRIPT
-- print("#/=========================================/")
-- print("#/                                         /")
-- print("#/            Program halo.py              /")
-- print("#/    by setianawanita02@mail.ugm.ac.id    /")
-- print("#/                                         /")
-- print("#/=========================================/")
+- print("#/=====================================/")
+- print("#/-------------------------------------/")
+- print("#/---------Program halo.py-------------/")
+- print("#/--by setianawanita02@mail.ugm.ac.id--/")
+- print("#/-------------------------------------/")
+- print("#/=====================================/")
 ## HASIL
-- #/=========================================/
-- #/                                         /
-- #/            Program halo.py              /
-- #/    by setianawanita02@mail.ugm.ac.id    /
-- #/                                         /
-- #/=========================================/
+- #/=====================================/
+- #/-------------------------------------/
+- #/---------Program halo.py-------------/
+- #/--by setianawanita02@mail.ugm.ac.id--/
+- #/-------------------------------------/
+- #/=====================================/
 <!--
 **setianawanita/setianawanita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -2,7 +2,7 @@
 - 🌱 I  studied at Gadjah Mada University
 - 🤔 I Was born in Yogyakarta on February 23th,2002
 - 📫 know me more at instagram @setianawanita
-- ⚡ I like singing :")
+- ⚡ I like singing,so lets sing with me :")
 <!--
 **setianawanita/setianawanita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

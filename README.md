@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there,I'm Tianaa 👋
 - 🌱 I  studied at Gadjah Mada University
 - 🤔 I Was born in Yogyakarta on February 23th,2002
 - 📫 know me more at instagram @setianawanita
